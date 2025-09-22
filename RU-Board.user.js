@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name		RU-Board
 // @description		Статусы онлайн, поиск сообщений, скрытие шапки, цитирование
-// @date		22.09.2024
 // @author		Halibut/Wald + Artyom Shegeda/greeple/Capushon
 // @version		1.2
 // @namespace		https://greasyfork.org/ru/scripts/2875-ru-board-whosonline/code
